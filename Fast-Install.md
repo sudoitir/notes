@@ -17,4 +17,5 @@ pip install spotdl
 
 #### Update apt and install
 ```sudo apt update```
+
 ```sudo apt install beekeeper-studio```
