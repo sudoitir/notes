@@ -30,6 +30,9 @@ ubuntu
 ```ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"```
 
 Set ```ZSH_THEME="spaceship"``` in your ```.zshrc```.
+## Auto Start Tmux
+
+```sudo apt install tmux```
 
 ```
 echo 'if [ -z "$TMUX" ]
