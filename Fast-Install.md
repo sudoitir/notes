@@ -1,4 +1,4 @@
-#### Fast Install - Fresh Ununtu
+# Fast Install - Fresh Ununtu
 
 ```
 sudo apt update && sudo apt upgrade -y && sudo apt autoremove && sudo apt install fonts-firacode tmux neofetch duf htop
