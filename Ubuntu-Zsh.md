@@ -35,5 +35,5 @@ Set ```ZSH_THEME="spaceship"``` in your ```.zshrc```.
 echo 'if [ -z "$TMUX" ]
 then
     tmux attach -t TMUX || tmux new -s TMUX
-fi' | sudo tee -a ~/.zshrc
+fi' | tee -a ~/.zshrc
 ```
