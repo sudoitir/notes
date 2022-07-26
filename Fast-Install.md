@@ -5,9 +5,13 @@ sudo apt update && sudo apt upgrade -y && sudo apt autoremove && sudo apt instal
 bashtop mpv ubuntu-restricted-extras ffmpeg zsh -y
 ```
 
+### spotdl
+
 ```
 pip install spotdl
 ```
+
+### Beekeeper Studio
 
 #### Install our GPG key
 ```wget --quiet -O - https://deb.beekeeperstudio.io/beekeeper.key | sudo apt-key add -```
