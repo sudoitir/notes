@@ -7,8 +7,8 @@
 
 ## Git Fame
 
-``` sudo apt-get install ```
+``` sudo apt-get install ruby-dev```
 
-``` ruby-dev sudo gem install git_fame ```
+```  sudo gem install git_fame ```
 
 ``` cd /path/to/gitdir && git fame ```
