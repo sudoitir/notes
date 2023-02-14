@@ -1,4 +1,4 @@
-## Set the DNS server for IntelliJ IDEA
+# Set the DNS server for IntelliJ IDEA
 
 **Modify the "idea.properties" file. Here are the steps:**
 
