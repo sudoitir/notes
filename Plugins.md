@@ -9,3 +9,4 @@
 - GenerateSerialVersionUID
 - Xcode Theme
 - Maven helper
+- Setting Repository
