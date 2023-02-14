@@ -8,3 +8,4 @@
 - JPA Buddy
 - GenerateSerialVersionUID
 - Xcode Theme
+- Maven helper
