@@ -1,3 +1,7 @@
+#### https://xxxx-xxxx-xxxx.xxxxxx.workers.dev/sub/Your.clean.ip
+
+
+'''
 const subLink = 'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt';
 
 export default {
@@ -69,3 +73,4 @@ function isIp(ipstr) {
   } catch (ee) { }
   return false;
 }
+'''
